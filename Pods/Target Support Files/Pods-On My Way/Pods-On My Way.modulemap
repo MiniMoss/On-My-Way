@@ -1,0 +1,6 @@
+framework module Pods_On_My_Way {
+  umbrella header "Pods-On My Way-umbrella.h"
+
+  export *
+  module * { export * }
+}
